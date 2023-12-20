@@ -1,0 +1,21 @@
+.h-bold{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+.ff-times{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.btn-blue{
+    background-color: blue;
+    padding-block: 25px;
+    padding-inline: 70px;
+    border: 3px solid rgb(53, 52, 52);
+}
+button{
+    transition: 1s all;
+}
+button:hover{
+    background-color: green !important;
+}
